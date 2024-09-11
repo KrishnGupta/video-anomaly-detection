@@ -54,7 +54,7 @@ Several models were experimented with, including:
 3. **InceptionV3**  
    - Training Accuracy: 90.10%  
    - Validation Accuracy: 63%  
-   - F1 Score: 0.79  
+   - F1 Score: 0.69  
 
 The **EfficientNetB7 + GRU** architecture yielded the best results in terms of validation accuracy and F1 score, and was chosen as the final model.
 
@@ -62,7 +62,7 @@ The **EfficientNetB7 + GRU** architecture yielded the best results in terms of v
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/video-anomaly-detection.git
+   git clone [https://github.com/your-repo/video-anomaly-detection.git](https://github.com/KrishnGupta/video-anomaly-detection.git)
    cd video-anomaly-detection
 
 2. Install the required dependencies:
