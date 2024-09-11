@@ -43,17 +43,17 @@ Several models were experimented with, including:
 
 1. **EfficientNetB7 + GRU**  
    - Training Accuracy: 93.29%  
-   - Validation Accuracy: 82%  
-   - F1 Score: 0.83  
+   - Validation Accuracy: 77%  
+   - F1 Score: 0.81
 
 2. **MobileNetV2**  
-   - Training Accuracy: 88.50%  
-   - Validation Accuracy: 75%  
-   - F1 Score: 0.77  
+   - Training Accuracy: 93.50%  
+   - Validation Accuracy: 58%  
+   - F1 Score: 0.69  
 
 3. **InceptionV3**  
-   - Training Accuracy: 91.10%  
-   - Validation Accuracy: 78%  
+   - Training Accuracy: 90.10%  
+   - Validation Accuracy: 63%  
    - F1 Score: 0.79  
 
 The **EfficientNetB7 + GRU** architecture yielded the best results in terms of validation accuracy and F1 score, and was chosen as the final model.
