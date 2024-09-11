@@ -62,7 +62,7 @@ The **EfficientNetB7 + GRU** architecture yielded the best results in terms of v
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-repo/video-anomaly-detection.git](https://github.com/KrishnGupta/video-anomaly-detection.git)
+   git clone https://github.com/your-repo/video-anomaly-detection.git](https://github.com/KrishnGupta/video-anomaly-detection.git
    cd video-anomaly-detection
 
 2. Install the required dependencies:
