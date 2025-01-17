@@ -524,4 +524,4 @@ if __name__ == '__main__':
         os.makedirs(UPLOAD_FOLDER)
     with app.app_context():
         db.create_all()  # Create the database tables
-    app.run(debug=True, host='0.0.0.0', port=5000)
+    app.run()
